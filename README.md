@@ -54,3 +54,20 @@ The goal is to analyze bot-user interaction logs, identify bottlenecks in bot re
 - Improved data storytelling with Power BI visualizations
   
 - Enhanced teamwork and Agile process adherence in a real-world environment
+
+📬 **Contact & Connect**
+
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out!
+
+- **Name**: DUMPALA DEVISHREE
+
+- **Email**: dumpaladevishree2004@gmail.com
+
+- **LinkedIn**: https://www.linkedin.com/in/devishree-dumpala
+
+- **GitHub**: https://github.com/Devishree1605
+
+💡 **Feedback and contributions are welcome!**
+
+Feel free to open an issue or submit a pull request.
+If you find this project helpful, please ⭐ the repository — your support means a lot!
